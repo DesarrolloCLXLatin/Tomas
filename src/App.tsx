@@ -2,7 +2,7 @@ import React from 'react';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import { ScrollProvider } from './context/ScrollContext';
-import LandingPage from './views/landingPage/LandingPage'; // Asegúrate de que la ruta sea correcta
+import LandingPage from './views/landingPage/LandingPage';
 
 function App() {
   return (
